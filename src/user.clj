@@ -1,4 +1,6 @@
-(ns user)
+(defn mapset [f coll]
+  (into #{} (map f coll))
+  )
 
 (def asym-hobbit-body-parts [{:name "head" :size 3}
                              {:name "upper-left-eye" :size 1}
