@@ -1,0 +1,5 @@
+# IDEA Plugin Configs
+# Cursive
+.nrepl-port
+.idea/conventionalCommit.xml
+.idea/refactorings.xml
