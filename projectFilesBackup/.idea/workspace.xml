@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0bb8155-c148-44c8-b1d7-c3399aca3467" name="Default Changelist" comment="" />
+    <disabled>
+      <disabled_changelists>
+        <list default="true" id="a0bb8155-c148-44c8-b1d7-c3399aca3467" name="Default Changelist" comment="feat: generalize create-matching-parts" />
+      </disabled_changelists>
+      <disabled_trackers />
+    </disabled>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DarkyenusTimeTracker">
+    <option name="totalTimeSeconds" value="3673" />
+    <option name="gitIntegration" value="true" />
+    <option name="naggedAbout" value="1" />
+  </component>
+  <component name="DepsLocalSettings">
+    <option name="repoId" value="" />
+    <option name="repoUrl" value="" />
+  </component>
+  <component name="DepsProjectDetails">
+    <option name="cachedModuleDetails">
+      <map>
+        <entry key="$PROJECT_DIR$/deps.edn">
+          <value>
+            <ModuleDetails>
+              <option name="details" value="{:paths [&quot;src/&quot;], :deps {org.clojure/clojure {:mvn/version &quot;1.10.1&quot;}}, :aliases {:deps {:extra-deps {org.clojure/tools.deps.alpha {:mvn/version &quot;0.7.541&quot;}}}, :test {:extra-paths [&quot;test&quot;]}}, :mvn/repos {&quot;central&quot; {:url &quot;https://repo1.maven.org/maven2/&quot;}, &quot;clojars&quot; {:url &quot;https://repo.clojars.org/&quot;}}, :system-aliases #{:test :deps}, :deps-tree {org.clojure/clojure {:mvn/version &quot;1.10.1&quot;, :deps/manifest :mvn, :paths [&quot;/Users/xingzhou/.m2/repository/org/clojure/clojure/1.10.1/clojure-1.10.1.jar&quot;], :children (org.clojure/spec.alpha org.clojure/core.specs.alpha)}, org.clojure/spec.alpha {:mvn/version &quot;0.2.176&quot;, :deps/manifest :mvn, :paths [&quot;/Users/xingzhou/.m2/repository/org/clojure/spec.alpha/0.2.176/spec.alpha-0.2.176.jar&quot;], :dependents [org.clojure/clojure], :children ()}, org.clojure/core.specs.alpha {:mvn/version &quot;0.2.44&quot;, :deps/manifest :mvn, :paths [&quot;/Users/xingzhou/.m2/repository/org/clojure/core.specs.alpha/0.2.44/core.specs.alpha-0.2.44.jar&quot;], :dependents [org.clojure/clojure], :children ()}}, :test-paths [&quot;test&quot;]}" />
+              <option name="hash" value="52d5f74489506407f16848abb05d0113" />
+            </ModuleDetails>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="ElmWorkspace">
+    <elmProjects />
+    <settings elmCompilerPath="" elmFormatPath="" elmTestPath="" isElmFormatOnSaveEnabled="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/user.clj" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1kXbMSTfPOEiS0nWIwc42yYiMzr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.elm.workspace.PROJECT_DISCOVERY" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="increaseLineSpacing" value="true" />
+  </component>
+  <component name="ReplState" timestamp="1606662114942">{:repl-history {:ide [], :local [], :remote []}}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="REPL" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="REPL" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="brave-clojure" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="DEPS" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="replPortFileType" value="STANDARD" />
+      <setting name="customPortFile" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0bb8155-c148-44c8-b1d7-c3399aca3467" name="Default Changelist" comment="" />
+      <created>1605849837581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605849837581</updated>
+      <workItem from="1605849839632" duration="85000" />
+      <workItem from="1605850306275" duration="592000" />
+      <workItem from="1605850913432" duration="2444000" />
+      <workItem from="1605853839150" duration="264000" />
+      <workItem from="1605883044812" duration="4988000" />
+      <workItem from="1606192460535" duration="22000" />
+      <workItem from="1606192496029" duration="109000" />
+      <workItem from="1606193005926" duration="413000" />
+      <workItem from="1606327702940" duration="88000" />
+      <workItem from="1606327807015" duration="689000" />
+      <workItem from="1606625990494" duration="88000" />
+      <workItem from="1606626094638" duration="753000" />
+      <workItem from="1606961973486" duration="4603000" />
+      <workItem from="1608739672459" duration="117000" />
+    </task>
+    <task id="LOCAL-00001" summary="chore: update build JDK version to latest LTS (JDK 11).">
+      <created>1605852218197</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605852218197</updated>
+    </task>
+    <task id="LOCAL-00002" summary="chore: add refactorings and conventional commit IntelliJ configs.">
+      <created>1605852274467</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605852274467</updated>
+    </task>
+    <task id="LOCAL-00003" summary="chore: ignore IDEA plugin configs.">
+      <created>1605852608409</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605852608409</updated>
+    </task>
+    <task id="LOCAL-00004" summary="chore: create project-wide .gitignore">
+      <created>1605852777061</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605852777061</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: generalize create-matching-parts">
+      <created>1606140652503</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606140652503</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chore: update build JDK version to latest LTS (JDK 11)." />
+    <MESSAGE value="chore: add refactorings and conventional commit IntelliJ configs." />
+    <MESSAGE value="chore: ignore IDEA plugin configs." />
+    <MESSAGE value="chore: create project-wide .gitignore" />
+    <MESSAGE value="feat: generalize create-matching-parts" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: generalize create-matching-parts" />
+  </component>
+</project>

@@ -60,3 +60,11 @@
   "Takes in a number n and create a function that would decrement its input by n."
   [amount]
   (fn [x] (- x amount)))
+
+(defn sleepy-identity
+  "Returns the given value after 1 second"
+  [x]
+  (Thread/sleep 1000)
+  x)
+
+(def memo-sleepy-identity (memoize sleepy-identity))
